@@ -37,3 +37,64 @@
 // Vendor
 @import
   'vendor/syntax-highlighting';
+
+
+
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-column-gap: 20px;
+  grid-row-gap: 50px;
+}
+
+.grid-item{
+  text-align: center;
+  font-size: 90%;
+}
+
+.grid-item .minipic{ 
+  max-width:  150px; 
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.c-header__title {
+font-size: 3.5rem;
+}
+
+.title-cell {
+  width: 80%;
+  display: inline-block;
+  vertical-align: middle;
+  top: 0; bottom: 0; left: 0; right: 0;
+  margin: auto;
+  
+}
+
+.logo-cell {
+  width: 20%;
+  padding: 0;
+}
+
+.u-container{
+  display: flex;
+  position:relative;
+
+}
