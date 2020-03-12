@@ -8,8 +8,22 @@ home: true
 
 <!-- We invite contributions for the 2020 Workshop on Visualization for the Digital Humanities.  -->
 We are happy to announce the organisation of the 2020 Workshop on Visualization for the Digital Humanities. 
-This will be a full-day workshop taking place as part of IEEE VIS 2020 in Vancouver, Canada.
-The official Call for Papers for the 2020 edition of this workshop will be released soon.
+This will be a full-day workshop taking place as part of IEEE VIS 2020 in Salt Lake City, Utah.
+
+**The official Call for Papers for the 2020 edition of this workshop will be released soon.** Check back here or follow us on [Twitter](https://www.twitter.com/VIS4DH) for the latest updates. 
+
+ &nbsp;  
+
+![Salt Lake City Skyline]({{site.baseurl}}/images/flyer1.png)
+
+ &nbsp;  
+
+---
+ &nbsp;  
+
+## About VIS4DH
+
+
 
 The purpose of this workshop is to propose new research directions in visualization for the digital humanities, to familiarize the visualization research community with the problems faced by digital humanities researchers, and to foster future collaboration between visualization and digital humanities research.
 
