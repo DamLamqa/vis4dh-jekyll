@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Full-day workshop on Visualisation for the Digital Humanities.
   Taking place as part of IEEE VIS, this year in Vancouver, Canada
 
-baseurl: "/2020" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vis4dh.org" # the base hostname & protocol for your site
 
 # Social

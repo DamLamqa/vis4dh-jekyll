@@ -61,6 +61,34 @@
   margin-right: auto;
 }
 
+.stylized-text{
+  display: flex;
+  color: #1f1f1f;
+  // font-family: Rockwell, Baskerville, "Baskerville Old Face";
+  font-family: 'SwiftNeueLTW01', Georgia, serif;
+  // font-family: "Times New Roman", Times, serif;
+  font-size: 220%;
+  font-style: italic;
+  margin: auto;
+  // text-align: center;
+  text-align: left;
+  flex-direction: column; 
+  align-items: center;
+  margin-right: 20px; 
+  margin-top: 60px; 
+  margin-bottom: 40px; 
+
+  width: 100%; 
+
+  // float: left; 
+  // display: inline; 
+  // border-right: 2px solid rgb(221, 221, 221); 
+  padding: 0px 0px 15px 10px; 
+  // font-weight: bold; 
+  line-height: 0.9;
+
+  // line-height: 23px;
+}
 
 
 table {

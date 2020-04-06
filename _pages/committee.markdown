@@ -34,18 +34,20 @@ University of St Andrews
 
 
 <div class="grid-item">
-![Stefania Forlini]({{site.baseurl}}/images/no_image.png){: .minipic}
+![Stefania Forlini]({{site.baseurl}}/images/Stefania.jpg){: .minipic}
 [Stefania Forlini](https://english.ucalgary.ca/profiles/stefania-forlini)
 
 University of Calgary
 
 </div>
 
-
 <div class="grid-item">
-![Annette Hauli]({{site.baseurl}}/images/no_image.png){: .minipic}
-[Annette Hauli](#)
+![Annette Hautli-Janisz]({{site.baseurl}}/images/Annette.jpg){: .minipic}
+[Annette Hautli-Janisz](https://ling.sprachwiss.uni-konstanz.de/pages/home/hautli/)
 
+University of Konstanz
+
+University of Dundee
 
 </div>
 
@@ -158,14 +160,3 @@ University of St Andrews
 
 </div>
  
-### Local chair / Unconference chair
-<div class="grid-container">
-
-<div class="grid-item">
-![Catherine Derose]({{site.baseurl}}/images/Catherine.jpg){: .minipic}
-[Catherine Derose](http://www.catherinederose.com/)
-
-Yale University
-
-</div>
-</div> 
