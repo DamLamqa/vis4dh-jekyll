@@ -160,3 +160,41 @@ University of St Andrews
 
 </div>
  
+
+
+### Program Committee
+
+
+- **Benjamin Bach**, University of Edinburgh
+
+- **Arianna Betti**, University of Amsterdam
+
+- **Viktoria Brüggemann** UClab Potsdam
+
+- **Mattie Burkert** Utah State University
+
+- **Annie Chen**, University of Washington
+
+- **Michael Correll**, Tableau Software 
+
+- **Angus Forbes**, University of California
+
+- **Martin Grandjean**, University of Lausanne
+
+- **Florian Heimerl**, University of Wisconsin-Madison
+
+- **Steffen Koch**, University of Stuttgart 
+
+- **Anouk Lang** University of Edinburgh
+
+- **Jonathan Roberts**, Bangor University
+
+
+
+
+
+
+
+
+
+
