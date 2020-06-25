@@ -169,9 +169,9 @@ University of St Andrews
 
 - **Arianna Betti**, University of Amsterdam
 
-- **Viktoria Brüggemann** UClab Potsdam
+- **Viktoria Brüggemann**, UClab Potsdam
 
-- **Mattie Burkert** Utah State University
+- **Mattie Burkert**, Utah State University
 
 - **Annie Chen**, University of Washington
 
@@ -185,10 +185,11 @@ University of St Andrews
 
 - **Steffen Koch**, University of Stuttgart 
 
-- **Anouk Lang** University of Edinburgh
+- **Anouk Lang**, University of Edinburgh
+
+- **Bridget Moynihan**
 
 - **Jonathan Roberts**, Bangor University
-
 
 
 

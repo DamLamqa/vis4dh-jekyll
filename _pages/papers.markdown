@@ -38,6 +38,8 @@ For our paper track we are seeking works from scholars in visualization, the hum
 Submissions will take the form of short (4-6 page - excluding references) papers.
 Submissions are meant to describe and critically discuss works at the intersection of visualization and humanities research, including applied case studies and empirical results and/or theoretical perspectives. We welcome works that highlight the difficulties (and proposed solutions) of designing visualizations in the context of humanities research and/or applying concepts from humanities research to foster visualization research and design. Authors of accepted papers will be invited to present their paper at the workshop. All presentations will be followed by a lively discussion with workshop participants.
 
+All accepted papers will be archived in open-access online archive arXiv. However, interested authors may also choose to have their papers placed in the IEEE Explore repository. 
+
 **Submitting a paper** 
 
 Paper submissions should be in PDF format following the two-column IEEE TVCG Conference Style Template [(http://junctionpublishing.org/vgtc/Tasks/camera.html)](http://junctionpublishing.org/vgtc/Tasks/camera.html). 
