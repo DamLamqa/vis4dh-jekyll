@@ -52,7 +52,7 @@ All accepted papers will be archived in open-access online archive arXiv. Howeve
 
 Paper submissions should be in PDF format following the two-column IEEE TVCG Conference Style Template [(http://junctionpublishing.org/vgtc/Tasks/camera.html)](http://junctionpublishing.org/vgtc/Tasks/camera.html). 
 
-Papers should be submitted via EasyChair [(https://easychair.org/conferences/?conf=vis4dh0)](https://easychair.org/conferences/?conf=vis4dh0) by **July 10, 2020 (5pm PST)**. Notifications will be sent on August 7, 2020. 
+Papers should be submitted via EasyChair [(https://easychair.org/conferences/?conf=vis4dh0)](https://easychair.org/conferences/?conf=vis4dh0) by **<del>July 10</del> July 17, 2020 (5pm PST)**. Notifications will be sent on August 7, 2020. 
 
 Submissions to the Paper Tracks will be optionally double-blind. Authors wishing to submit their work double-blind should remove author information from the cover page of their submitted document, and take care to avoid identifying information in the submission itself. 
 <a name="provocations"></a>
@@ -86,8 +86,7 @@ Accepted authors will be invited to present their viewpoint and argument in form
 
 **Submitting a provocation** 
 
-Information on the submission platform will be published soon.
-<!-- Submissions to the Provocations Track should be submitted via EasyChair [(https://easychair.org/conferences/?conf=vis4dh0)](https://easychair.org/conferences/?conf=vis4dh0) by **August 24, 2020 (5pm PST)**. Notification will be sent on September 7, 2020.  -->
+Submissions to the Provocations Track should be submitted via EasyChair [(https://easychair.org/conferences/?conf=vis4dh0)](https://easychair.org/conferences/?conf=vis4dh0) by **August 24, 2020 (5pm PST)**. Notification will be sent on September 7, 2020. 
 
 
 Submissions to the Provocations Tracks will be optionally double blind. Authors wishing to submit their work double-blind should indicate this in the submission form on EasyChair and take care to avoid identifying information in the submission itself.
