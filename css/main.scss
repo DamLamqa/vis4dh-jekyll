@@ -48,10 +48,24 @@
   grid-row-gap: 50px;
 }
 
+.two-column-container{
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-column-gap: 20px;
+  grid-row-gap: 50px;
+}
+
 .grid-item{
   text-align: center;
   font-size: 90%;
 }
+
+.two-column-item{
+  text-align: justify;
+  font-size: 90%;
+}
+
+
 
 .grid-item .minipic{ 
   max-width:  150px; 
@@ -60,6 +74,16 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+
+.two-column-item .minipic{ 
+  max-width:  150px; 
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 .stylized-text{
   display: flex;
@@ -126,3 +150,11 @@ font-size: 3.5rem;
   position:relative;
 
 }
+
+
+
+
+// -----------------------------------------------
+// -----------------------------------------------
+// -----------------------------------------------
+

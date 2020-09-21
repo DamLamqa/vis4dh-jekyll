@@ -6,6 +6,12 @@ home: true
 ---
 {::options parse_block_html="true" /}
 
+_**Announcement**: This year exceptionally, the VIS4DH workshop will be held entirely virtually, as a consequence of the current COVID-19 restrictions, and following the shift of the IEEE VIS conference to an online format._
+
+_More information about the format and access of the virtual platform will be published here soon._
+
+---
+
 _**Note on COVID-19**: For the latest updates on the COVID-19 impact on the timeline, schedule, and format of the VIS conference, please refer to [the IEEE VIS website](http://ieeevis.org)._
 
 ---

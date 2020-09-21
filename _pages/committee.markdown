@@ -173,13 +173,9 @@ University of St Andrews
 
 - **Mattie Burkert**, Utah State University
 
-- **Annie Chen**, University of Washington
-
 - **Michael Correll**, Tableau Software 
 
 - **Angus Forbes**, University of California
-
-- **Martin Grandjean**, University of Lausanne
 
 - **Florian Heimerl**, University of Wisconsin-Madison
 
@@ -192,7 +188,9 @@ University of St Andrews
 - **Jonathan Roberts**, Bangor University
 
 
+<!-- - **Annie Chen**, University of Washington -->
 
+<!-- - **Martin Grandjean**, University of Lausanne -->
 
 
 

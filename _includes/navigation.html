@@ -1,13 +1,24 @@
 <nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
   <div class="c-navigation__container u-container">
-    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">#VIS4DH 2020</a>
-    <!-- <a class="c-navigation__item {% if page.url == '/articles/' %}is-active{% endif %}" href="{{ "/articles/" | prepend: site.baseurl }}">Articles</a> -->
-    <a class="c-navigation__item {% if page.url == '/cfp/' %}is-active{% endif %}" href="{{ "/cfp/" | prepend: site.baseurl }}">Call for Submissions</a>
-    <a class="c-navigation__item {% if page.url == '/papers/' %}is-active{% endif %}" href="{{ "/papers/" | prepend: site.baseurl }}">Papers</a>
-    <a class="c-navigation__item {% if page.url == '/provocations/' %}is-active{% endif %}" href="{{ "/provocations/" | prepend: site.baseurl }}">Provocations</a>
-    <a class="c-navigation__item {% if page.url == '/dates/' %}is-active{% endif %}" href="{{ "/dates/" | prepend: site.baseurl }}">Important Dates</a>
-    <a class="c-navigation__item {% if page.url == '/committee/' %}is-active{% endif %}" href="{{ "/committee/" | prepend: site.baseurl }}">Organizers</a>
-    <a class="c-navigation__item {% if page.url == '/archives/' %}is-active{% endif %}" href="{{ "/archives/" | prepend: site.baseurl }}">Archives</a>
+    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}"
+      href="{{ "/" | prepend: site.baseurl }}">#VIS4DH 2020</a>
+    <a class="c-navigation__item {% if page.url == '/cfp/' %}is-active{% endif %}"
+      href="{{ "/cfp/" | prepend: site.baseurl }}">CfP</a>
+    <a class="c-navigation__item {% if page.url == '/papers/' %}is-active{% endif %}"
+      href="{{ "/papers/" | prepend: site.baseurl }}">Accepted Papers</a>
+    <a class="c-navigation__item {% if page.url == '/provocations/' %}is-active{% endif %}"
+      href="{{ "/provocations/" | prepend: site.baseurl }}">Provocations</a>
+    <a class="c-navigation__item {% if page.url == '/invitedtalks/' %}is-active{% endif %}"
+      href="{{ "/invitedtalks/" | prepend: site.baseurl }}">Invited Talks</a>
+    <a class="c-navigation__item {% if page.url == '/labtalks/' %}is-active{% endif %}"
+      href="{{ "/labtalks/" | prepend: site.baseurl }}">Lab Talks</a>
+    <a class="c-navigation__item {% if page.url == '/dates/' %}is-active{% endif %}"
+      href="{{ "/dates/" | prepend: site.baseurl }}">Important Dates</a>
+    <a class="c-navigation__item {% if page.url == '/committee/' %}is-active{% endif %}"
+      href="{{ "/committee/" | prepend: site.baseurl }}">Organizers</a>
+    <a class="c-navigation__item {% if page.url == '/archives/' %}is-active{% endif %}"
+      href="{{ "/archives/" | prepend: site.baseurl }}">Archives</a>
+
 
   </div>
 </nav>

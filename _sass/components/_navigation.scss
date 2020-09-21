@@ -35,10 +35,10 @@
   @include ff--mono(500);
   @include fs--meta;
   color: $c__white;
-  text-transform: uppercase;
+  // text-transform: uppercase; 
 
   &:not(:last-of-type) {
-    margin-right: 2.5rem;
+    margin-right: 4rem;
   }
 
   &:after {
@@ -57,3 +57,6 @@
     background: $c__white;
   }
 }
+
+
+
