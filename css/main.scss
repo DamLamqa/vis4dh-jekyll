@@ -117,6 +117,7 @@
 
 table {
   border-collapse: collapse;
+  // table-layout: fixed;
   width: 100%;
 }
 
@@ -124,6 +125,8 @@ th, td {
   padding: 8px;
   text-align: left;
   border-bottom: 1px solid #ddd;
+  // width: 100px;
+  // overflow: hidden;
 }
 
 
@@ -152,6 +155,25 @@ font-size: 3.5rem;
 }
 
 
+
+
+.hoverTable{
+  width:100%;
+  border-collapse:collapse;
+  font-size: 80%;
+
+}
+.hoverTable td{
+  padding:7px; border:#ffffff 0px solid;
+}
+/* Define the default color for all the table rows */
+.hoverTable tr{
+  background: #ffffff;
+}
+/* Define the hover highlight color for the table row */
+.hoverTable tr:hover {
+    background-color: #dae9fb;
+}
 
 
 // -----------------------------------------------
